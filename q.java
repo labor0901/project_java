@@ -30,7 +30,10 @@ public class q {
   }
 
   // 0205
+<<<<<<< HEAD
   public String getName() {
     return name;
   }
+=======
+>>>>>>> main
 }
