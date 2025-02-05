@@ -28,12 +28,6 @@ public class q {
     // 타입은 프로그램이 끝나기까지 해당 영역에서 사용. 다른 타입의 값 할당 불가
     boolean power = false;
   }
-
-  // 0205
-<<<<<<< HEAD
-  public String getName() {
-    return name;
-  }
-=======
->>>>>>> main
 }
+
+
