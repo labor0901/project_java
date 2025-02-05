@@ -29,7 +29,4 @@ public class q {
     boolean power = false;
   }
   // 0205
-  public String getName() {
-      return name;
-  }
 }
